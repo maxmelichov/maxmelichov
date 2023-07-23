@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maxim Melichov</h1>
 <h3 align="center">I'm a passionate Data Scientist</h3>
