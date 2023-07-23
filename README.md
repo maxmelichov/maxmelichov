@@ -21,6 +21,8 @@
     <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="48" height="48"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="48" height="48"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/he/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="48" height="48"/> 
     </a> 
