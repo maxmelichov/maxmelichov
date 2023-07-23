@@ -33,7 +33,7 @@
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/> </a>  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"width="48" height="48"/> </a>  </a> 
  </a>
 </p>
 
