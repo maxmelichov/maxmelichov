@@ -12,7 +12,7 @@
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
-- 📫 How to reach me **adids1221@gmail.com** 
+- 📫 How to reach me **maxme006@gmail.com** 
 
 ## 🚀 Languages and Tools:
 
