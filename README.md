@@ -40,8 +40,8 @@
 
 ## Connect with me:
 <p align="left">
-    <a href = "https://www.linkedin.com/in/max-melichov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    
+    <a href = "https://www.linkedin.com/in/max-melichov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48"/></a>
+    <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="48" height="48"/></a>
 
 </p>
 <!-- <p align="left">
