@@ -36,9 +36,9 @@
     
 
 </p>
-<p align="left">
+<!-- <p align="left">
     <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="35px"/></a>
-</p>
+</p> -->
 <!--
 **maxmelichov/maxmelichov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
