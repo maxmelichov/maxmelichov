@@ -33,8 +33,11 @@
 ## Connect with me:
 <p align="left">
     <a href = "https://www.linkedin.com/in/max-melichov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="35px"/></a>
+    
 
+</p>
+<p align="left">
+    <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="35px"/></a>
 </p>
 <!--
 **maxmelichov/maxmelichov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
