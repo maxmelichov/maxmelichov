@@ -25,6 +25,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="48" height="48"/> </a>
     <a href="https://keras.io/" target="_blank"> 
     <img src="https://keras.io/img/logo.png" width="48" height="48"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/he/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="48" height="48"/> 
     </a> 
