@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 I’m currently a Computer Science graduate.
-- 🎓 Starting MSc in Data Science & ML in October 2023.
+- 🎓 MSc in Data Science & ML Student.
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
