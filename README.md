@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently a Computer Science graduate.
+- 🎓 BSc Computer Science graduate.
 - 🎓 MSc in Data Science & ML Student.
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
