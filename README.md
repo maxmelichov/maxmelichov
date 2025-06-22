@@ -8,11 +8,16 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 BSc Computer Science graduate.
+
 - 🎓 MSc in Data Science & ML Student.
 
-- 💪 Ambitious, self-motivated, hardworking person and a great team player.
+-💪 Ambitious, self-motivated, hardworking person and a great team player.
 
-- 📫 How to reach me **maxme006@gmail.com** 
+- 🧠 MSc thesis in NLP and deep learning, exploring spinal MRI classification and deepfake detection.
+
+- 🚀 Developed end-to-end pipelines using ONNX, TensorRT, and MLOps best practices.
+
+- 📫 How to reach me: maxme006@gmail.com
 
 ## 🚀 Languages and Tools:
 
