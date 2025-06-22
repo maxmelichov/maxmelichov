@@ -11,7 +11,7 @@
 
 - 🎓 MSc in Data Science & ML Student.
 
--💪 Ambitious, self-motivated, hardworking person and a great team player.
+- 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
 - 🧠 MSc thesis in NLP and deep learning, exploring spinal MRI classification and deepfake detection.
 
