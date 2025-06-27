@@ -13,8 +13,6 @@
 
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
-- 🧠 MSc thesis in NLP and deep learning, exploring spinal MRI classification and deepfake detection.
-
 - 🚀 Developed end-to-end pipelines using ONNX, TensorRT, and MLOps best practices.
 
 - 📫 How to reach me: maxme006@gmail.com
