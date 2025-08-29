@@ -1,66 +1,113 @@
-### Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" height="175px"/></a>
+# Maxim (Max) Melichov
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maxim Melichov</h1>
-<h3 align="center">I'm a passionate Data Scientist</h3>
+**Data Scientist & AI Engineer — NLP, Speech, and Applied Deep Learning**
+MSc Student in Data Science & Machine Learning @ Reichman University
 
+I build production‑grade AI systems with a focus on **text‑to‑speech (TTS)**, **Hebrew NLP (diacritization/“niqqud”)**, **deepfake detection**, and **medical imaging**. My work spans from research and model design to deployment with **ONNX/TensorRT**, **CUDA optimization**, and **MLOps** pipelines.
 
-## 🙋‍♂️ About Me
+* Awarded **1st place** in a Hebrew synthetic‑voice challenge for **Kan News** (broadcast‑grade TTS quality).
+* **Kaggle**: consistent competitor; e.g., **BirdCLEF 2025** Top 2% (AUC 0.902; Rank 38/2025).
+* Creator of **MamreVoice** — a production‑ready Hebrew/Multilingual TTS with high‑fidelity voice cloning and fast inference.
 
-- 🎓 BSc Computer Science graduate.
+---
 
-- 🎓 MSc in Data Science & ML Student.
+## Contents
 
-- 💪 Ambitious, self-motivated, hardworking person and a great team player.
+* [What I Do](#what-i-do)
+* [Selected Projects](#selected-projects)
+* [Technical Skills](#technical-skills)
+* [Experience Highlights](#experience-highlights)
+* [Writing & Talks](#writing--talks)
+* [Contact](#contact)
 
-- 🚀 Developed end-to-end pipelines using ONNX, TensorRT, and MLOps best practices.
+---
 
-- 📫 How to reach me: maxme006@gmail.com
+## What I Do
 
-## 🚀 Languages and Tools:
+* **Custom TTS Pipelines**: Speaker cloning, prosody control, cross‑language transfer, long‑form stability; FastAPI/GRPC services; streaming TTS.
+* **Private, Efficient Deployment**: Triton Inference Server, TensorRT, ONNX Runtime; serverless GPU endpoints (cold‑start tuned), autoscaling, observability.
+* **Hebrew NLP**: State‑of‑the‑art **diacritization** with Dicta‑BERT variants + retrieval; spelling/vowelization correction; evaluation tooling.
+* **Deepfake Detection**: Temporal+spatial modeling, mixed‑precision training, robust inference pipelines.
+* **Medical Imaging**: 2.5D/3D CNNs and transformers; segmentation → diagnosis pipelines (e.g., RSNA challenges).
+* **Reinforcement Learning**: Agents for MiniGrid dynamic‑obstacles; reward shaping, diagnostics, and rigorous eval.
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="48" height="48"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="48" height="48"/> </a>
-    <a href="https://keras.io/" target="_blank"> 
-    <img src="https://keras.io/img/logo.png" width="48" height="48"/> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/he/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="48" height="48"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"width="48" height="48"/> </a>  </a> 
- </a>
-</p>
+---
 
+## Selected Projects
 
-## Connect with me:
-<p align="left">
-    <a href = "https://www.linkedin.com/in/max-melichov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48"/></a>
-    <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="48" height="48"/></a>
+* **MamreVoice** — High‑fidelity Hebrew/Multilingual TTS
+  Real‑time and batch synthesis, accurate voice cloning, robust long‑form output. Optimized with TensorRT and ONNX; deployable as private endpoints with key‑based billing.
+  • Demo site: **[https://maxmelichov.github.io/mamre-site/](https://maxmelichov.github.io/mamre-site/)**
+  • API/UI options: RunPod/Novita serverless, Triton‑backed services.
 
-</p>
-<!-- <p align="left">
-    <a href = "https://medium.com/@maxme006"><img src="https://snappify.com/images/docs/embedding/medium.png" width="35px"/></a>
-</p> -->
-<!--
-**maxmelichov/maxmelichov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Phonikud / Hebrew Diacritization R\&D**
+  Retrieval‑augmented Dicta‑BERT pipeline for modern Hebrew; kNN‑assisted decoding; sentence‑level evaluation and detailed error analysis.
 
-Here are some ideas to get you started:
+* **Deepfake Detection**
+  Hybrid temporal–spatial training under autocast; balanced optimizers; robust data processing; export to ONNX/TensorRT for production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **RSNA Imaging Work**
+  2.5D CNNs for spine analysis; segmentation→classification composition; intensive experimentation under GPU constraints.
+
+> If you want details or references, I’m happy to share code, notebooks, and reports where appropriate.
+
+---
+
+## Technical Skills
+
+**Languages**: Python, C/C++ (tools), SQL
+**DL/ML**: PyTorch, Hugging Face, scikit‑learn, Lightning
+**Speech/Audio**: TTS, ASR, DSP basics, speaker embeddings
+**Optimization**: CUDA, TensorRT, ONNX Runtime, quantization, mixed precision
+**Serving**: Triton Inference Server, FastAPI/GRPC, serverless GPU endpoints, streaming
+**MLOps**: Docker, GitHub Actions, experiment tracking, profiling, reproducibility
+**Data**: Pandas/Polars, NumPy, DVC, data curation/labeling workflows
+**Tooling**: VS Code Remote‑SSH, rclone, uv/pip‑tools, containers, multi‑GPU workflows
+
+---
+
+## Experience Highlights
+
+* Designed **end‑to‑end TTS** stack with accurate **voice cloning**, prosody controls, and fast inference; exported to ONNX/TensorRT; deployed as a **private API** with request‑level billing.
+* Built **Hebrew NLP** pipelines for **diacritization** with retrieval augmentation, including sentence‑level evaluation, confusion matrices, and qualitative analyses.
+* Trained **deepfake detectors** with temporal and spatial modules; emphasized stability, speed, and production exportability.
+* Developed **medical‑imaging** classifiers that integrate segmentation outputs (2.5D/3D); handled tight VRAM and throughput trade‑offs.
+* Implemented **RL agents** (Q‑learning, DQN/PPO, etc.) with principled reward shaping and comprehensive evaluation tooling.
+
+---
+
+## Writing & Talks
+
+* *How to Create a TensorRT Engine (v10.4.0)* — Medium (technical deep‑dive).
+* *RSNA Lumbar Spine: Segmentation→Classification Lessons* — notes and write‑ups.
+* *Hebrew Diacritization with RAG + Dicta‑BERT* — research notes, evaluation framework.
+
+> More posts and notebooks are available on my Medium and GitHub.
+
+---
+
+## Contact
+
+* Email: **[maxme006@gmail.com](mailto:maxme006@gmail.com)**
+* LinkedIn: **[https://www.linkedin.com/in/max-melichov/](https://www.linkedin.com/in/max-melichov/)**
+* GitHub: **[https://github.com/maxmelichov/](https://github.com/maxmelichov/)**
+* Medium: **[https://medium.com/@maxme006](https://medium.com/@maxme006)**
+
+---
+
+<details>
+<summary>Additional Links and Badges (optional)</summary>
+
+* GitHub stats card (public services):
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmelichov\&show_icons=true)
+
+* Top languages:
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmelichov\&layout=compact)
+
+* Shields examples:
+
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red) ![TensorRT](https://img.shields.io/badge/TensorRT-10.x-informational) ![ONNX](https://img.shields.io/badge/ONNX-runtime-important) ![Docker](https://img.shields.io/badge/Docker-ready-success)
+
+</details>
