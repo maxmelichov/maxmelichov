@@ -1,11 +1,10 @@
-<!-- Hero -->
-<div align="center">
+<!-- ===== Hero ===== -->
+<div align="center" style="max-width: 980px; margin: 0 auto;">
   <a href="#">
     <img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" alt="ML banner" width="100%" />
   </a>
 
   <h1 style="margin:16px 0 6px;">👋 Hi, I'm <strong>Maxim Melichov</strong></h1>
-
   <p style="margin:0; font-size:16px;">
     <strong>Data Scientist & AI Engineer</strong> · NLP · Speech · Computer Vision
   </p>
@@ -34,61 +33,69 @@
   </p>
 
   <p style="margin:6px 0 0; font-size:13px;">
-    🏆 1st place — Hebrew synthetic voice (Kan News) · 🗣️ Built <strong>MamreVoice</strong> (Hebrew TTS) · 🧪 BirdCLEF & RSNA competitor
+    🏆 1st place — Hebrew synthetic voice (Kan News) · 🗣️ Built <strong>MamreVoice</strong> · 🧪 BirdCLEF & RSNA competitor
   </p>
 </div>
 
-<!-- About -->
+<hr/>
+
+<!-- ===== About ===== -->
 <h2>About</h2>
 <ul>
   <li>🎓 BSc Computer Science; MSc student in Data Science & Machine Learning.</li>
   <li>🗣️ <strong>MamreVoice</strong>: Hebrew TTS with high-fidelity cloning, natural prosody, and production-grade latency.</li>
-  <li>🔍 Hebrew NLP (diacritization / niqqud), deepfake detection, and medical imaging (RSNA) — with rigorous eval & ablations.</li>
+  <li>🔎 Hebrew NLP (diacritization / niqqud), deepfake detection, and medical imaging (RSNA) — with rigorous evaluation & ablations.</li>
   <li>🚀 End-to-end systems: ONNX/TensorRT optimization, GPU inference, private APIs, and MLOps deployments.</li>
 </ul>
 
-<!-- Featured -->
+<!-- ===== Featured (clean "cards") ===== -->
 <h2>Featured</h2>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding: 8px 16px 8px 0;">
-      <h3 style="margin: 0 0 6px;">🎧 MamreVoice — Hebrew TTS</h3>
-      <p style="margin: 0 0 8px;">
-        High-quality cloning, expressive prosody, controllable style, and low latency. Built for private, production use.
-      </p>
-      <p style="margin: 0;">
-        <a href="https://maxmelichov.github.io/mamre-site/">Live demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 8px 16px 8px 0;">
-      <h3 style="margin: 0 0 6px;">🔡 Hebrew Diacritization (Niqqud)</h3>
-      <p style="margin: 0 0 8px;">
-        Researching retrieval-aided vowelization with sentence-level evaluation, strong error analysis, and modern corpora focus.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 8px 16px 8px 0;">
-      <h3 style="margin: 0 0 6px;">🛡️ Deepfake Detection</h3>
-      <p style="margin: 0 0 8px;">
-        Temporal + spatial pipelines with mixed-precision training and deployment-aware architectures for real-time screening.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 8px 16px 8px 0;">
-      <h3 style="margin: 0 0 6px;">🩺 Medical Imaging (RSNA)</h3>
-      <p style="margin: 0 0 8px;">
-        2.5D/3D stacks for segmentation & classification; careful curation, level-specific inputs, and ensembles.
-      </p>
-    </td>
-  </tr>
-</table>
 
-<!-- Tech Stack -->
+<div style="display:block; max-width: 980px;">
+  <!-- Card -->
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
+    <h3 style="margin:0 0 6px;">🎧 MamreVoice — Hebrew TTS</h3>
+    <p style="margin:0;">
+      High-quality voice cloning, expressive prosody, controllable style, and low latency — built for private, production use.
+      <br/>
+      <a href="https://maxmelichov.github.io/mamre-site/">Live demo & details</a>
+    </p>
+  </div>
+
+  <!-- Card -->
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
+    <h3 style="margin:0 0 6px;">🔡 Hebrew Diacritization (Niqqud)</h3>
+    <p style="margin:0;">
+      Researching robust vowelization with sentence-level evaluation, careful error analysis, and modern Hebrew corpora.
+      I also work on <strong>Phonikud</strong> — a practical, phonetics-aware approach to niqqud aimed at usable accuracy and clean deployment.
+      Read more here:
+      <a href="https://thewh1teagle.github.io/phonikud-paper/">Phonikud paper / project page</a>.
+    </p>
+  </div>
+
+  <!-- Card -->
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
+    <h3 style="margin:0 0 6px;">🛡️ Deepfake Detection</h3>
+    <p style="margin:0;">
+      Temporal + spatial pipelines with mixed-precision training and deployment-aware architectures for real-time screening.
+    </p>
+  </div>
+
+  <!-- Card -->
+  <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
+    <h3 style="margin:0 0 6px;">🩺 Medical Imaging (RSNA)</h3>
+    <p style="margin:0;">
+      2.5D/3D stacks for segmentation & classification; careful curation, level-specific inputs, and model ensembles.
+    </p>
+  </div>
+</div>
+
+<hr/>
+
+<!-- ===== Tech Stack ===== -->
 <h2>Tech Stack</h2>
+
+<!-- Keep your original icon row -->
 <p>
   <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="48" height="48" alt="Pandas" /></a>
@@ -99,6 +106,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" /></a>
 </p>
+
+<!-- Compact chips (readable) -->
 <p>
   <code>PyTorch</code>
   <code>TensorRT</code>
@@ -113,15 +122,20 @@
   <code>MLOps</code>
 </p>
 
-<!-- Highlights -->
+<hr/>
+
+<!-- ===== Highlights ===== -->
 <h2>Highlights</h2>
 <ul>
-  <li>🏆 Competition: 1st place in Hebrew synthetic voice (Kan News). BirdCLEF & RSNA experience at scale.</li>
-  <li>🧪 Research: Hebrew NLP (diacritization), deepfake detection; strong evaluation design & error analysis.</li>
-  <li>🚢 Engineering: Private, production-ready inference with ONNX/TensorRT, GPU acceleration, and secure APIs.</li>
+  <li>🏆 1st place in Hebrew synthetic voice (Kan News).</li>
+  <li>🧪 Hebrew NLP: diacritization (Niqqud) with Phonikud; strong evaluation design & error analysis.</li>
+  <li>🚢 Engineering: private, production-ready inference with ONNX/TensorRT, GPU acceleration, and secure APIs.</li>
+  <li>📊 Competitions: BirdCLEF & RSNA — large-scale experiments with careful validation and ablations.</li>
 </ul>
 
-<!-- Contact -->
+<hr/>
+
+<!-- ===== Contact ===== -->
 <h2>Contact</h2>
 <p>
   Open to impactful collaborations in NLP, speech, and applied ML.
@@ -130,12 +144,3 @@
   <a href="https://www.linkedin.com/in/max-melichov/">LinkedIn</a> ·
   <a href="https://medium.com/@maxme006">Medium</a>
 </p>
-
-<!-- Optional: collapsible extras -->
-<details>
-  <summary><strong>More</strong></summary>
-  <ul>
-    <li>Hands-on with GPUs, Dockerized workflows, and reproducible pipelines.</li>
-    <li>Driven by accuracy, clarity, and shipping real systems.</li>
-  </ul>
-</details>
