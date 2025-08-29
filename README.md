@@ -1,4 +1,3 @@
-<!-- ===== Hero ===== -->
 <div align="center" style="max-width: 980px; margin: 0 auto;">
   <a href="#">
     <img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg" alt="ML banner" width="100%" />
@@ -12,23 +11,22 @@
     MSc Data Science & ML @ Reichman University · ONNX / TensorRT · MLOps
   </p>
 
-  <!-- Actions -->
   <p style="margin-top:12px;">
     <a href="mailto:maxme006@gmail.com"
-       style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e0e0e0; border-radius:999px; text-decoration:none; font-weight:600;">
-       Email
+      style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e0e0e0; border-radius:999px; text-decoration:none; font-weight:600;">
+      Email
     </a>
     <a href="https://www.linkedin.com/in/max-melichov/"
-       style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #cde3ff; background:#f4f9ff; border-radius:999px; text-decoration:none; font-weight:600;">
-       LinkedIn
+      style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #cde3ff; background:#f4f9ff; border-radius:999px; text-decoration:none; font-weight:600;">
+      LinkedIn
     </a>
     <a href="https://medium.com/@maxme006"
-       style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e6e6e6; border-radius:999px; text-decoration:none; font-weight:600;">
-       Medium
+      style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e6e6e6; border-radius:999px; text-decoration:none; font-weight:600;">
+      Medium
     </a>
     <a href="https://maxmelichov.github.io/mamre-site/"
-       style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e0e0e0; border-radius:999px; text-decoration:none; font-weight:600;">
-       MamreVoice Demo
+      style="display:inline-block; margin:4px; padding:8px 14px; border:1px solid #e0e0e0; border-radius:999px; text-decoration:none; font-weight:600;">
+      MamreVoice Demo
     </a>
   </p>
 
@@ -39,7 +37,6 @@
 
 <hr/>
 
-<!-- ===== What I do ===== -->
 <h2>What I do</h2>
 <ul>
   <li><strong>MamreVoice</strong>: Hebrew TTS with natural prosody, robust cloning, and production-grade latency.</li>
@@ -48,11 +45,9 @@
   <li><strong>Competitions</strong>: large-scale, reproducible experiments; rigorous ablations and validation.</li>
 </ul>
 
-<!-- ===== Selected Projects ===== -->
 <h2>Selected Projects</h2>
 
 <div style="display:block; max-width: 980px;">
-  <!-- MamreVoice -->
   <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
     <h3 style="margin:0 0 6px;">🎧 MamreVoice — Hebrew TTS</h3>
     <p style="margin:0;">
@@ -63,7 +58,6 @@
     </p>
   </div>
 
-  <!-- Phonikud / Diacritization -->
   <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
     <h3 style="margin:0 0 6px;">🔡 Phonikud — Hebrew Diacritization (Niqqud)</h3>
     <p style="margin:0;">
@@ -74,7 +68,6 @@
     </p>
   </div>
 
-  <!-- RSNA (Lumbar Spine) -->
   <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px; margin-bottom:10px;">
     <h3 style="margin:0 0 6px;">🩺 RSNA — Lumbar Spine Analysis</h3>
     <p style="margin:0;">
@@ -84,7 +77,6 @@
     </p>
   </div>
 
-  <!-- BirdCLEF -->
   <div style="padding:12px 14px; border:1px solid #eee; border-radius:12px;">
     <h3 style="margin:0 0 6px;">🐦 BirdCLEF 2025</h3>
     <p style="margin:0;">
@@ -96,10 +88,8 @@
 
 <hr/>
 
-<!-- ===== Tech Stack ===== -->
 <h2>Tech Stack</h2>
 
-<!-- Keep your original icon row -->
 <p>
   <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="48" height="48" alt="Pandas" /></a>
@@ -111,7 +101,6 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" /></a>
 </p>
 
-<!-- Compact chips (no FastAPI/Docker) -->
 <p>
   <code>PyTorch</code>
   <code>TensorRT</code>
@@ -125,11 +114,11 @@
 
 <hr/>
 
-<!-- ===== Highlights ===== -->
 <h2>Highlights</h2>
 <ul>
   <li>🏆 Hebrew synthetic voice (Kan News) — 1st place.</li>
   <li>🎧 MamreVoice — expressive, low-latency Hebrew TTS optimized for private deployment.</li>
   <li>🔡 Phonikud — phonetics-aware niqqud with sentence-level evaluation.</li>
   <li>🩺 RSNA — level-aware spine modeling with segmentation-assisted inputs.</li>
-  <li>🐦 BirdCLEF — top 2% (AUC 0.902) with robus
+  <li>🐦 BirdCLEF — top 2% (AUC 0.902) with robust ensembling.</li>
+</ul>
