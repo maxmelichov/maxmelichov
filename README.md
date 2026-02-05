@@ -54,8 +54,7 @@
 
 <h3 align="center">🚀 Projects</h3>
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 <h4>🎧 MamreVoice</h4>
@@ -73,26 +72,24 @@ Hebrew diacritization with DictaBert<br/><br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <h4>🩺 RSNA 2025</h4>
 Lumbar spine stenosis detection (2.5D/3D)<br/><br/>
 <img src="https://img.shields.io/badge/🥉_Top_6%25-CD7F32?style=flat-square"/>
 </td>
-<td align="center">
+<td align="center" width="50%">
 <h4>🐦 BirdCLEF 2025</h4>
 Bioacoustic classification · 0.902 AUC<br/><br/>
 <img src="https://img.shields.io/badge/🥈_Top_2%25-C0C0C0?style=flat-square"/>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
 <b>🧠 ML & DL</b><br/><br/>
@@ -125,14 +122,12 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
 <h3 align="center">🎓 Education</h3>
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 <h4>🎓 MSc Data Science & ML</h4>
@@ -146,7 +141,6 @@ Holon Institute of Technology<br/>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
