@@ -20,32 +20,31 @@
 
 <h3 align="center">🏆 Achievements</h3>
 
-<div align="center">
-
-| | |
-|:-:|:-:|
-| 🏅 **Employee of the Year 2024** | Stealth Startup |
-| 🥇 **1st Place** | Kan News Hebrew Synthetic Voice |
-| 🥈 **Top 2%** (38/2025) | Kaggle BirdCLEF 2025 |
-| 🥉 **Top 6%** (103/1900) | Kaggle RSNA 2025 |
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/🏅_Employee_of_the_Year_2024-Stealth_Startup-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥇_1st_Place-Kan_News_Hebrew_TTS-FFD700?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/🥈_Top_2%25_(38/2025)-Kaggle_BirdCLEF_2025-C0C0C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥉_Top_6%25_(103/1900)-Kaggle_RSNA_2025-CD7F32?style=for-the-badge"/>
+</p>
 
 ---
 
 <h3 align="center">⚡ Featured: <a href="https://lightbluetts.com/">Light Blue TTS</a></h3>
 
-<div align="center">
+<p align="center">
+<i>Studio-quality Hebrew speech synthesis · <b>Extreme inference speed</b></i>
+</p>
 
-*Studio-quality Hebrew speech synthesis · **Extreme inference speed***
+<p align="center">
+<img src="https://img.shields.io/badge/🖥️_RTX_3090-1,260x_RT-76B900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_CPU-35x_RT-005CED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍎_Apple_M1-20x_RT-000000?style=for-the-badge"/>
+</p>
 
-| 🖥️ RTX 3090 | 💻 CPU | 🍎 Apple M1 |
-|:-----------:|:------:|:-----------:|
-| **1,260x** RT | **35x** RT | **20x** RT |
-
-[![Demo](https://img.shields.io/badge/🎯_Try_Live_Demo-005CED?style=for-the-badge)](https://lightbluetts.com/)
-
-</div>
+<p align="center">
+<a href="https://lightbluetts.com/"><img src="https://img.shields.io/badge/🎯_Try_Live_Demo-005CED?style=for-the-badge"/></a>
+</p>
 
 ---
 
