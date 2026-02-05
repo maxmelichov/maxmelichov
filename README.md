@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>Maxim Melichov</h1>
-  
-  <h3>
-    Data Scientist & AI Engineer
-  </h3>
-  
-  <p>
-    <strong>Real-Time Inference • Generative AI • Speech Synthesis • Computer Vision</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=280&section=header&text=Maxim%20Melichov&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=25" alt="Header" width="100%" />
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Real-Time+Inference+Optimization;Generative+AI+%26+Speech+Synthesis;Computer+Vision+%26+Medical+Imaging;LLMOps+%26+On-Device+Deployment" alt="Typing SVG" />
+    </a>
   </p>
 
   <p>
@@ -51,7 +49,7 @@
           Delivers natural cadence with zero-shot capabilities.
         </p>
         <p>
-          🚀 <strong>Benchmarks:</strong> ~21,000 RTF on RTX 3090 | ~35x Real-Time on CPU | ~20x Real-Time on Apple M1
+          🚀 <strong>Benchmarks:</strong> ~1,260x Real-Time (21 min/sec) on RTX 3090 | ~35x Real-Time on CPU | ~20x Real-Time on Apple M1
         </p>
         <p>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
