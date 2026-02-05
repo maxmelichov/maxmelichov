@@ -1,21 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=005CED&center=true&vCenter=true&width=500&lines=Maxim+Melichov" alt="Name" />
+# Hey, I'm Maxim 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Engineer;Real-time+Inference+Optimization;Audio%2FTTS+%7C+NLP+%7C+Computer+Vision;PyTorch+%7C+ONNX+%7C+TensorRT;MLOps+%26+LLMOps+Expert" alt="Typing SVG" />
-
-<br/>
-
-**MSc Data Science & ML** @ Reichman University
-
-*Building ultra-low-latency AI systems for Edge & Enterprise*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI+Engineer;Building+ultra-low-latency+AI+systems;Audio%2FTTS+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision" alt="Typing SVG" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maxme006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-melichov/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maxme006)
+<a href="mailto:maxme006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/max-melichov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@maxme006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+<br/><br/>
+
+🎓 **MSc Data Science & ML** @ Reichman University &nbsp;•&nbsp; ⚡ **PyTorch** · **ONNX** · **TensorRT**
 
 </div>
 
