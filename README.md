@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=005CED&amp;height=280&amp;text=Maxim%20Melichov&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Data%20Scientist%20%26%20AI%20Engineer&amp;descSize=25" alt="Maxim Melichov" width="100%" />
+  <a href="https://maxmelichov.github.io/mamre-site/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=005CED&amp;height=280&amp;text=Maxim%20Melichov&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Data%20Scientist%20%26%20AI%20Engineer&amp;descSize=25" alt="Maxim Melichov" width="100%" />
+  </a>
 
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -118,11 +120,4 @@
 
 | Core & Mobile | ML & DL | Deployment & MLOps |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-2496ED?style=flat-square&amp;logo=github-actions&amp;logoColor=white"/> |
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;
