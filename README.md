@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=280&section=header&text=Maxim%20Melichov&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=25" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=280&text=Maxim%20Melichov&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=25" alt="Maxim Melichov" width="100%" />
 
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -66,41 +66,6 @@
 
 <br />
 
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <strong>Stealth Startup</strong><br>
-      <em>AI Engineer</em><br>
-      Nov 2023 – Dec 2025
-    </td>
-    <td width="70%" valign="top">
-      <ul>
-        <li>🏆 <strong>Employee of the Year 2024</strong> for research breakthroughs and product impact.</li>
-        <li>Architected hard real-time computer vision pipelines (30 FPS I/O) using CUDA and TensorRT.</li>
-        <li>Developed high-confidence authenticity detection (anti-deepfake) models adopted by enterprise clients.</li>
-        <li>Ported heavy deep learning models to on-device Android inference using C++ and Kotlin.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <strong>GaiaLabs</strong><br>
-      <em>NLP Engineer Intern</em><br>
-      Sep 2023 – Jan 2024
-    </td>
-    <td width="70%" valign="top">
-      <ul>
-        <li>Fine-tuned LLMs for client applications, boosting downstream accuracy by 20%.</li>
-        <li>Built efficient Named Entity Recognition (NER) systems using Electra and BERT variants.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## 🚀 Key Projects
 
 <table>
@@ -153,13 +118,4 @@
 
 | Core & Mobile | ML & DL | Deployment & MLOps |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-2496ED?style=flat-square&logo=github-actions&logoColor=white"/> |
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxmelichov&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmelichov&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
-</div>
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
