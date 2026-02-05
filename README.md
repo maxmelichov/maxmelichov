@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=280&section=header&text=Maxim%20Melichov&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=25" alt="Header" width="100%" />
-
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Real-Time+Inference+Optimization;Generative+AI+%26+Speech+Synthesis;Computer+Vision+%26+Medical+Imaging;LLMOps+%26+On-Device+Deployment" alt="Typing SVG" />
-    </a>
+  <h1>Maxim Melichov</h1>
+  
+  <h3>
+    Data Scientist & AI Engineer
+  </h3>
+  
+  <p>
+    <strong>Real-Time Inference • Generative AI • Speech Synthesis • Computer Vision</strong>
   </p>
 
   <p>
@@ -14,7 +16,7 @@
   </p>
 
   <p>
-    🏆 <strong>Employee of the Year 2024</strong> - Raincheck <br/>
+    🏆 <strong>Employee of the Year 2024</strong> - Stealth Startup <br/>
     🥇 <strong>1st Place</strong> - Kan News Hebrew Synthetic Voice Competition <br/>
     🥈 <strong>Top 6%</strong> (103/1900) - Kaggle RSNA 2025 (Medical Imaging) <br/>
     🐦 <strong>Top 2%</strong> (38/2025) - Kaggle BirdCLEF 2025 (Bioacoustics)
@@ -71,16 +73,16 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <strong>Raincheck (Stealth Startup)</strong><br>
+      <strong>Stealth Startup</strong><br>
       <em>AI Engineer</em><br>
       Nov 2023 – Dec 2025
     </td>
     <td width="70%" valign="top">
       <ul>
-        [cite_start]<li>🏆 <strong>Employee of the Year 2024</strong> for research breakthroughs and product impact[cite: 21].</li>
-        [cite_start]<li>Architected hard real-time computer vision pipelines (30 FPS I/O) using CUDA and TensorRT[cite: 32].</li>
-        [cite_start]<li>Developed high-confidence authenticity detection (anti-deepfake) models adopted by enterprise clients[cite: 31].</li>
-        [cite_start]<li>Ported heavy deep learning models to on-device Android inference using C++ and Kotlin[cite: 35].</li>
+        <li>🏆 <strong>Employee of the Year 2024</strong> for research breakthroughs and product impact.</li>
+        <li>Architected hard real-time computer vision pipelines (30 FPS I/O) using CUDA and TensorRT.</li>
+        <li>Developed high-confidence authenticity detection (anti-deepfake) models adopted by enterprise clients.</li>
+        <li>Ported heavy deep learning models to on-device Android inference using C++ and Kotlin.</li>
       </ul>
     </td>
   </tr>
@@ -92,8 +94,8 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        [cite_start]<li>Fine-tuned LLMs for client applications, boosting downstream accuracy by 20%[cite: 40].</li>
-        [cite_start]<li>Built efficient Named Entity Recognition (NER) systems using Electra and BERT variants[cite: 41].</li>
+        <li>Fine-tuned LLMs for client applications, boosting downstream accuracy by 20%.</li>
+        <li>Built efficient Named Entity Recognition (NER) systems using Electra and BERT variants.</li>
       </ul>
     </td>
   </tr>
@@ -142,8 +144,8 @@
 
 ## 🎓 Education
 
-* **M.Sc. Data Science & Machine Learning** | [cite_start]Reichman University (2023 - Current) [cite: 44]
-* **B.Sc. Computer Science** | [cite_start]Holon Institute of Technology (2020 - 2023) [cite: 46]
+* **M.Sc. Data Science & Machine Learning** | Reichman University (2023 - Current)
+* **B.Sc. Computer Science** | Holon Institute of Technology (2020 - 2023)
 
 ---
 
