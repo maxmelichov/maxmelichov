@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=280&text=Maxim%20Melichov&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=25" alt="Maxim Melichov" width="100%" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=200&text=Maxim%20Melichov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=20&descAlignY=55" width="100%" />
 
   <br/>
 
@@ -209,11 +210,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxmelichov&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=maxmelichov&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=100&section=footer" width="100%"/>
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005CED&height=120&section=footer" width="100%"/>
 
 </div>
