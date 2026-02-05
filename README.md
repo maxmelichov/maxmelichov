@@ -54,6 +54,7 @@
 
 <h3 align="center">🚀 Projects</h3>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="50%">
@@ -84,11 +85,13 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="25%">
@@ -122,11 +125,13 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <h3 align="center">🎓 Education</h3>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="50%">
@@ -141,6 +146,7 @@ Holon Institute of Technology<br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
