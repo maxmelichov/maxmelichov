@@ -48,27 +48,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚡ LightBlue — Fastest Hebrew TTS</h3>
+      <p>
+        The fastest Hebrew Text-to-Speech model available, delivering <strong>human-like speech</strong> synthesis. Designed for ultra-low latency applications without compromising on naturalness.
+      </p>
+      <a href="https://lightbluetts.com/"><strong>➡️ View Live Demo</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎧 MamreVoice — State-of-the-Art Hebrew TTS</h3>
       <p>
         An end-to-end Text-to-Speech engine designed for <strong>expressive prosody</strong>, robust <strong>zero-shot voice cloning</strong>, and <strong>production-grade latency</strong>. The entire stack is optimized with ONNX & TensorRT for efficient, private deployment.
       </p>
       <a href="https://maxmelichov.github.io/mamre-site/"><strong>➡️ View Live Demo & Details</strong></a>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3>🔡 Phonikud — Phonetics-Aware Hebrew Diacritization</h3>
       <p>
         A practical Niqqud (vowelization) model that incorporates phonetic awareness to achieve superior accuracy on modern Hebrew. This work emphasizes <strong>sentence-level evaluation</strong> and clean, deployable code.
       </p>
       <a href="https://thewh1teagle.github.io/phonikud-paper/"><strong>➡️ Read the Paper / Project Page</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 RSNA — Lumbar Spine Abnormality Detection</h3>
-      <p>
-        A level-aware 2.5D/3D classification pipeline for analyzing lumbar spine MRIs (Sagittal T1/T2, Axial T2). The model uses segmentation-guided cropping and a transformer-based combiner to achieve robust stenosis grading across L1–L5 vertebrae.
-      </p>
-      <em>Kaggle Competition Entry</em>
     </td>
     <td width="50%" valign="top">
       <h3>🐦 BirdCLEF 2025 — Large-Scale Bioacoustics</h3>
@@ -77,6 +78,20 @@
       </p>
       <em>Kaggle Competition Entry</em>
     </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 RSNA 2024 — Lumbar Spine Abnormality</h3>
+      <p>
+        A level-aware 2.5D/3D classification pipeline for analyzing lumbar spine MRIs. The model uses segmentation-guided cropping and a transformer-based combiner to achieve robust stenosis grading across L1–L5 vertebrae.
+      </p>
+      <p>
+        🥈 <strong>Top 6%</strong> (103/1874) - Kaggle RSNA 2024
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 
