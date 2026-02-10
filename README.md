@@ -10,9 +10,15 @@
 <a href="https://www.linkedin.com/in/max-melichov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@maxme006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-<br/><br/>
+</div>
 
-🎓 **MSc Data Science & ML** @ Reichman University &nbsp;•&nbsp; ⚡ **PyTorch** · **ONNX** · **TensorRT**
+<br/>
+
+<div align="center">
+
+🎓 **MSc Data Science & ML** @ Reichman University &nbsp;|&nbsp; 📚 **BSc Computer Science** @ HIT
+
+⚡ **PyTorch** · **ONNX** · **TensorRT** &nbsp;|&nbsp; 🎯 Audio/TTS · NLP · Computer Vision · Medical Imaging
 
 </div>
 
@@ -22,13 +28,12 @@
 
 <div align="center">
 
-🏅 **Employee of the Year 2024** — Stealth Startup
-
-🥇 **1st Place** — Kan News Hebrew Synthetic Voice Competition
-
-🥈 **Top 2%** — Kaggle BirdCLEF 2025 *(38 / 2,025)*
-
-🥉 **Top 6%** — Kaggle RSNA 2025 *(103 / 1,900)*
+| | Achievement | Details |
+|:-:|:--|:--|
+| 🏅 | **Employee of the Year 2024** | Stealth Startup |
+| 🥇 | **1st Place** — Kan News Hebrew Synthetic Voice Competition | National broadcast competition |
+| 🥈 | **Top 2%** — [Kaggle BirdCLEF 2025](https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score) | 38 / 2,025 teams |
+| 🥉 | **Top 6%** — [Kaggle RSNA 2024](https://medium.com/@maxme006/rsna-2024-a-story-of-solving-low-back-pain-with-ai-687a66b8e209) | 103 / 1,900 teams |
 
 </div>
 
@@ -40,7 +45,7 @@
 
 ### [Light Blue TTS](https://lightbluetts.com/)
 
-*Studio-quality Hebrew speech synthesis*
+*Studio-quality Hebrew speech synthesis — the fastest Hebrew TTS engine available*
 
 | Device | Speed |
 |:------:|:-----:|
@@ -70,15 +75,17 @@
 Hebrew diacritization with DictaBert<br/><br/>
 <a href="https://thewh1teagle.github.io/phonikud-paper/"><img src="https://img.shields.io/badge/Paper-005CED?style=for-the-badge"/></a>
 </td>
+</tr>
+<tr>
 <td align="center" width="300">
-<h4>🩺 RSNA 2025</h4>
+<h4>🩺 RSNA 2024</h4>
 Lumbar spine stenosis detection (2.5D/3D)<br/><br/>
-<img src="https://img.shields.io/badge/🥉_Top_6%25-CD7F32?style=for-the-badge"/>
+<a href="https://medium.com/@maxme006/rsna-2024-a-story-of-solving-low-back-pain-with-ai-687a66b8e209"><img src="https://img.shields.io/badge/🥉_Top_6%25-CD7F32?style=for-the-badge"/></a>
 </td>
 <td align="center" width="300">
 <h4>🐦 BirdCLEF 2025</h4>
 Bioacoustic classification · 0.902 AUC<br/><br/>
-<img src="https://img.shields.io/badge/🥈_Top_2%25-C0C0C0?style=for-the-badge"/>
+<a href="https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score"><img src="https://img.shields.io/badge/🥈_Top_2%25-C0C0C0?style=for-the-badge"/></a>
 </td>
 </tr>
 </table>
@@ -126,35 +133,16 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 
 ---
 
-<h3 align="center">🎓 Education</h3>
-
-<table align="center">
-<tr>
-<td align="center" width="400">
-<h4>🎓 MSc Data Science & ML</h4>
-Reichman University<br/>
-<b>2023 — Present</b>
-</td>
-<td align="center" width="400">
-<h4>📚 BSc Computer Science</h4>
-Holon Institute of Technology<br/>
-<b>2020 — 2023</b>
-</td>
-</tr>
-</table>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=005CED&title_color=005CED" alt="Stats"/>
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxmelichov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=005CED" alt="Languages"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=005CED&title_color=005CED&include_all_commits=true" alt="Stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=maxmelichov&theme=tokyonight&hide_border=true&background=0D1117&ring=005CED&fire=005CED&currStreakLabel=005CED" alt="Streak"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxmelichov&theme=tokyonight" width="100%" alt="Activity Graph"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxmelichov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=005CED&langs_count=8" alt="Languages"/>
 
 <br/>
 
@@ -168,6 +156,6 @@ Holon Institute of Technology<br/>
 
 <div align="center">
 
-*💡 Open to collaborations on AI/ML projects*
+*Open to collaborations on AI/ML projects — let's build something great together*
 
 </div>
