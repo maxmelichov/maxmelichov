@@ -49,9 +49,9 @@
 
 | Device | Speed |
 |:------:|:-----:|
-| 🖥️ RTX 3090 | **1,260x** real-time |
+| 🖥️ RTX 3090 | **1500x** real-time |
 | 💻 CPU | **35x** real-time |
-| 🍎 Apple M1 | **20x** real-time |
+| 🍎 Apple M4 | **70x** real-time |
 
 <br/>
 
