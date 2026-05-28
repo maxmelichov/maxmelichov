@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### [Light Blue TTS](https://lightbluetts.com/)
+### [Blue TTS](https://lightbluetts.com/)
 
 *Studio-quality Hebrew speech synthesis — the fastest Hebrew TTS engine available*
 
