@@ -11,11 +11,11 @@
 
 </div>
 
-I build speech and audio systems that run fast enough to be useful in production — not just in a notebook. Most of my work is on **Hebrew TTS**, a low-resource language where off-the-shelf models either don't exist or run too slowly to ship. That means a lot of time in ONNX, TensorRT and CUDA, squeezing 2B-parameter models onto hardware people actually own.
+I work on Hebrew TTS: model training, and then a lot of inference optimization to get it fast enough to actually deploy. ONNX, TensorRT, CUDA, quantization.
 
-Outside of speech: medical imaging, bioacoustics and deepfake detection — usually via Kaggle, which is where I go to learn a domain quickly.
+Also Kaggle, mostly medical imaging and bioacoustics.
 
-🎓 **MSc Data Science & ML**, Reichman University &nbsp;·&nbsp; **BSc Computer Science**, HIT
+MSc Data Science & ML, Reichman University. BSc Computer Science, HIT.
 
 ---
 
