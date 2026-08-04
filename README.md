@@ -1,22 +1,14 @@
 <div align="center">
 
-# Hey, I'm Maxim 👋
+# Hey, I'm Max 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI+Engineer;Building+ultra-low-latency+AI+systems;Audio%2FTTS+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision" alt="Typing SVG" />
 
-<br/>
+<a href="mailto:maxme006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/max-melichov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@maxme006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
-<a href="mailto:maxme006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/max-melichov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@maxme006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-🎓 **MSc Data Science & ML** @ Reichman University &nbsp;|&nbsp; 📚 **BSc Computer Science** @ HIT
+🎓 **MSc Data Science & ML** @ Reichman University &nbsp;·&nbsp; 📚 **BSc Computer Science** @ HIT
 
 ⚡ **PyTorch** · **ONNX** · **TensorRT** &nbsp;|&nbsp; 🎯 Audio/TTS · NLP · Computer Vision · Medical Imaging
 
@@ -32,7 +24,7 @@
 |:-:|:--|:--|
 | 🏅 | **Employee of the Year 2024** | Stealth Startup |
 | 🥇 | **1st Place** — Kan News Hebrew Synthetic Voice Competition | National broadcast competition |
-| 🥈 | **Top 2%** — [Kaggle BirdCLEF 2025](https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score) | 38 / 2,025 teams |
+| 🥈 | **Top 2%** — [Kaggle BirdCLEF 2025](https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score) | 38 / 2,025 teams · 0.902 AUC |
 | 🥉 | **Top 6%** — [Kaggle RSNA 2024](https://medium.com/@maxme006/rsna-2024-a-story-of-solving-low-back-pain-with-ai-687a66b8e209) | 103 / 1,900 teams |
 
 </div>
@@ -43,19 +35,17 @@
 
 <div align="center">
 
-### [Blue TTS](https://lightbluetts.com/)
+### [🔵 Blue TTS](https://lightbluetts.com/)
 
 *Studio-quality Hebrew speech synthesis — the fastest Hebrew TTS engine available*
 
 | Device | Speed |
 |:------:|:-----:|
-| 🖥️ RTX 3090 | **1500x** real-time |
-| 💻 CPU | **35x** real-time |
-| 🍎 Apple M4 | **70x** real-time |
+| 🖥️ RTX 3090 | **1500×** real-time |
+| 🍎 Apple M4 | **70×** real-time |
+| 💻 CPU | **35×** real-time |
 
-<br/>
-
-<a href="https://lightbluetts.com/"><img src="https://img.shields.io/badge/🎯_Try_Live_Demo-005CED?style=for-the-badge"/></a>
+<a href="https://lightbluetts.com/"><img src="https://img.shields.io/badge/🎯_Try_Live_Demo-005CED?style=for-the-badge" alt="Live Demo"/></a>
 
 </div>
 
@@ -67,25 +57,29 @@
 <tr>
 <td align="center" width="300">
 <h4>🎧 MamreVoice</h4>
-2B param DiffMamba TTS · Zero-shot cloning<br/><br/>
-<a href="https://maxmelichov.github.io/mamre-site/"><img src="https://img.shields.io/badge/Demo-005CED?style=for-the-badge"/></a>
+2B-param DiffMamba TTS · Zero-shot voice cloning
+<br/><br/>
+<a href="https://maxmelichov.github.io/mamre-site/"><img src="https://img.shields.io/badge/Demo-005CED?style=for-the-badge" alt="Demo"/></a>
 </td>
 <td align="center" width="300">
 <h4>🔡 Phonikud</h4>
-Hebrew diacritization with DictaBert<br/><br/>
-<a href="https://thewh1teagle.github.io/phonikud-paper/"><img src="https://img.shields.io/badge/Paper-005CED?style=for-the-badge"/></a>
+Hebrew diacritization with DictaBert
+<br/><br/>
+<a href="https://thewh1teagle.github.io/phonikud-paper/"><img src="https://img.shields.io/badge/Paper-005CED?style=for-the-badge" alt="Paper"/></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="300">
 <h4>🩺 RSNA 2024</h4>
-Lumbar spine stenosis detection (2.5D/3D)<br/><br/>
-<a href="https://medium.com/@maxme006/rsna-2024-a-story-of-solving-low-back-pain-with-ai-687a66b8e209"><img src="https://img.shields.io/badge/🥉_Top_6%25-CD7F32?style=for-the-badge"/></a>
+Lumbar spine stenosis detection (2.5D/3D)
+<br/><br/>
+<a href="https://medium.com/@maxme006/rsna-2024-a-story-of-solving-low-back-pain-with-ai-687a66b8e209"><img src="https://img.shields.io/badge/🥉_Top_6%25-CD7F32?style=for-the-badge" alt="Top 6%"/></a>
 </td>
 <td align="center" width="300">
 <h4>🐦 BirdCLEF 2025</h4>
-Bioacoustic classification · 0.902 AUC<br/><br/>
-<a href="https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score"><img src="https://img.shields.io/badge/🥈_Top_2%25-C0C0C0?style=for-the-badge"/></a>
+Bioacoustic classification · 0.902 AUC
+<br/><br/>
+<a href="https://www.kaggle.com/competitions/birdclef-2025/writeups/hatol-place-38-0-902-auc-score"><img src="https://img.shields.io/badge/🥈_Top_2%25-C0C0C0?style=for-the-badge" alt="Top 2%"/></a>
 </td>
 </tr>
 </table>
@@ -97,36 +91,46 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 <table align="center">
 <tr>
 <td align="center" width="280">
-<b>🧠 ML & DL</b><br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<b>🧠 ML & DL</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<br/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
 </td>
 <td align="center" width="280">
-<b>⚡ Inference</b><br/><br/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Real--time-FF4500?style=flat-square&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<b>⚡ Inference</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT"/>
+<br/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+<img src="https://img.shields.io/badge/Real--time-FF4500?style=flat-square&logo=zap&logoColor=white" alt="Real-time"/>
 </td>
 <td align="center" width="280">
-<b>🎯 Domains</b><br/><br/>
-<img src="https://img.shields.io/badge/Audio%2FTTS-8A2BE2?style=flat-square&logo=soundcloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-00CED1?style=flat-square&logo=openai&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Deepfake-DC143C?style=flat-square&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Medical_Imaging-228B22?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bioacoustics-2E8B57?style=flat-square&logo=&logoColor=white"/>
+<b>🎯 Domains</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Audio%2FTTS-8A2BE2?style=flat-square" alt="Audio/TTS"/>
+<img src="https://img.shields.io/badge/NLP-00CED1?style=flat-square" alt="NLP"/>
+<br/>
+<img src="https://img.shields.io/badge/Deepfake_Detection-DC143C?style=flat-square" alt="Deepfake Detection"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+<br/>
+<img src="https://img.shields.io/badge/Medical_Imaging-228B22?style=flat-square" alt="Medical Imaging"/>
+<img src="https://img.shields.io/badge/Bioacoustics-2E8B57?style=flat-square" alt="Bioacoustics"/>
 </td>
 <td align="center" width="280">
-<b>🔧 MLOps</b><br/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLMOps-412991?style=flat-square&logo=openai&logoColor=white"/>
+<b>🔧 MLOps</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+<br/>
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+<img src="https://img.shields.io/badge/LLMOps-412991?style=flat-square" alt="LLMOps"/>
 </td>
 </tr>
 </table>
@@ -137,18 +141,16 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=005CED&title_color=005CED&include_all_commits=true" alt="Stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=maxmelichov&theme=tokyonight&hide_border=true&background=0D1117&ring=005CED&fire=005CED&currStreakLabel=005CED" alt="Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxmelichov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=005CED&title_color=005CED&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=maxmelichov&theme=tokyonight&hide_border=true&background=0D1117&ring=005CED&fire=005CED&currStreakLabel=005CED" alt="Streak"/>
 
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmelichov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=005CED&langs_count=8" alt="Top Languages"/>
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxmelichov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=005CED&langs_count=8" alt="Languages"/>
+<br/><br/>
 
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=maxmelichov&style=for-the-badge&color=005CED)
-![Followers](https://img.shields.io/github/followers/maxmelichov?style=for-the-badge&color=005CED&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/maxmelichov?style=for-the-badge&color=005CED&logo=github&label=Stars)
+<img src="https://komarev.com/ghpvc/?username=maxmelichov&style=for-the-badge&color=005CED" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/maxmelichov?style=for-the-badge&color=005CED&logo=github&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/maxmelichov?style=for-the-badge&color=005CED&logo=github&label=Stars" alt="Stars"/>
 
 </div>
 
@@ -156,6 +158,6 @@ Bioacoustic classification · 0.902 AUC<br/><br/>
 
 <div align="center">
 
-*Open to collaborations on AI/ML projects — let's build something great together*
+💬 *Open to collaborations on AI/ML projects — let's build something great together*
 
 </div>
