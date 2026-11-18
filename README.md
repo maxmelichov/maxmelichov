@@ -21,7 +21,7 @@
 
 Fastest open-source TTS · 7 languages · **1500×** real-time on GPU
 
-<a href="https://huggingface.co/spaces/notmax123/BlueV2"><img src="https://img.shields.io/badge/Try_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://huggingface.co/spaces/notmax123/BlueV3"><img src="https://img.shields.io/badge/Try_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="https://bluetts.com/"><img src="https://img.shields.io/badge/Website-005CED?style=for-the-badge"/></a>
 
 </div>
